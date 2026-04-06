@@ -1,5 +1,4 @@
-server:
-  port: 9400
-#注册到Eureka服务中心
-eureka:
-  client:
+mysql:
+  user: yzq
+person:
+  name: yangzhiqiang
